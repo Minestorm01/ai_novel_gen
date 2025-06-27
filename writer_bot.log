@@ -1,0 +1,229 @@
+2025-06-22 14:56:53,665 | INFO | Initialising new memory file at project_memory.yaml
+2025-06-22 14:59:42,088 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:42,092 | INFO | Retrying request to /chat/completions in 0.459721 seconds
+2025-06-22 14:59:43,518 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:43,521 | INFO | Retrying request to /chat/completions in 0.986417 seconds
+2025-06-22 14:59:45,427 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:47,345 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:47,349 | INFO | Retrying request to /chat/completions in 0.415511 seconds
+2025-06-22 14:59:48,546 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:48,549 | INFO | Retrying request to /chat/completions in 0.856666 seconds
+2025-06-22 14:59:49,633 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:51,869 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:51,872 | INFO | Retrying request to /chat/completions in 0.461351 seconds
+2025-06-22 14:59:52,607 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:52,611 | INFO | Retrying request to /chat/completions in 0.984945 seconds
+2025-06-22 14:59:54,043 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:58,383 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:58,386 | INFO | Retrying request to /chat/completions in 0.398843 seconds
+2025-06-22 14:59:59,048 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 14:59:59,051 | INFO | Retrying request to /chat/completions in 0.924474 seconds
+2025-06-22 15:00:00,303 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:00:08,656 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:00:08,661 | INFO | Retrying request to /chat/completions in 0.405195 seconds
+2025-06-22 15:00:09,312 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:00:09,315 | INFO | Retrying request to /chat/completions in 0.761461 seconds
+2025-06-22 15:00:10,327 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:11,193 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:11,197 | INFO | Retrying request to /chat/completions in 0.397275 seconds
+2025-06-22 15:04:12,159 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:12,164 | INFO | Retrying request to /chat/completions in 0.834127 seconds
+2025-06-22 15:04:13,276 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:15,036 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:15,040 | INFO | Retrying request to /chat/completions in 0.418939 seconds
+2025-06-22 15:04:15,676 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:15,680 | INFO | Retrying request to /chat/completions in 0.811732 seconds
+2025-06-22 15:04:16,706 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:18,926 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:18,929 | INFO | Retrying request to /chat/completions in 0.417730 seconds
+2025-06-22 15:04:19,671 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:19,674 | INFO | Retrying request to /chat/completions in 0.879824 seconds
+2025-06-22 15:04:20,913 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:25,146 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:25,149 | INFO | Retrying request to /chat/completions in 0.449481 seconds
+2025-06-22 15:04:25,917 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:25,920 | INFO | Retrying request to /chat/completions in 0.848873 seconds
+2025-06-22 15:04:26,980 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:35,311 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:35,314 | INFO | Retrying request to /chat/completions in 0.403347 seconds
+2025-06-22 15:04:35,966 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:04:35,969 | INFO | Retrying request to /chat/completions in 0.843012 seconds
+2025-06-22 15:04:37,110 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-22 15:08:44,165 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 15:08:44,169 | WARNING | Footer not found
+2025-06-22 15:08:44,176 | INFO | Chunk saved � total words: 1295
+2025-06-22 15:09:02,906 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 15:09:02,909 | ERROR | Malformed footer JSON
+2025-06-22 15:09:02,927 | INFO | Chunk saved � total words: 2566
+2025-06-22 15:09:21,761 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 15:09:21,765 | WARNING | Footer not found
+2025-06-22 15:09:21,787 | INFO | Chunk saved � total words: 3827
+2025-06-22 15:09:40,786 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 15:09:40,789 | WARNING | Footer not found
+2025-06-22 15:09:40,817 | INFO | Chunk saved � total words: 5069
+2025-06-22 17:22:00,563 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:02,431 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:05,868 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:08,294 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:10,031 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:12,604 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:14,862 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:16,769 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:19,112 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:21,092 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:23,061 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:22:25,037 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:15,486 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:17,019 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:21,024 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:22,779 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:24,405 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:26,484 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:28,569 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:32,199 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:33,818 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:36,514 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:38,861 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:25:40,315 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:17,028 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:18,380 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:20,020 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:21,863 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:23,515 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:25,735 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:27,129 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:28,931 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:30,515 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:32,090 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:33,609 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:27:35,425 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:28:51,677 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:30:08,073 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:31:51,557 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:36:23,568 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:16,046 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:17,998 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:20,685 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:22,539 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:24,385 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:28,231 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:29,652 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:32,406 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:34,193 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:36,136 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:37,865 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:37:39,453 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 17:58:57,714 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:00:37,545 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:02:56,077 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:03:03,027 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:03:08,738 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:03:14,062 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:08:16,771 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:08:26,024 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:08:33,217 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:08:42,518 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:09:52,222 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:09:58,879 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:10:05,162 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:10:14,611 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:57:44,082 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:57:47,296 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:57:49,384 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:57:53,167 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:57:54,879 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:57:57,596 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:57:59,869 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:58:01,879 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:58:04,066 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:58:06,619 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:58:12,413 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 18:58:14,539 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 19:07:13 | INFO     | ✅  wrote project_memory.yaml
+2025-06-22 19:44:14 | INFO     | Starting writer-bot ⚙️
+2025-06-22 19:52:37 | INFO     | Starting writer-bot ⚙️
+2025-06-22 19:53:56 | INFO     | Starting writer-bot ⚙️
+2025-06-22 19:55:21 | INFO     | Starting writer-bot ⚙️
+2025-06-22 19:55:46 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 19:55:46 | WARNING  | Footer not found 👀
+2025-06-22 19:58:51 | INFO     | Starting writer-bot ⚙️
+2025-06-22 19:59:15 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 19:59:16 | WARNING  | Footer not found 👀
+2025-06-22 19:59:16 | INFO     | Chunk saved – total words: 1165
+2025-06-22 19:59:35 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 19:59:35 | WARNING  | Footer not found 👀
+2025-06-22 19:59:35 | INFO     | Chunk saved – total words: 2422
+2025-06-22 20:00:27 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:01:26 | WARNING  | Footer not found 👀
+2025-06-22 20:01:26 | INFO     | Chunk saved – total words: 3639
+2025-06-22 20:01:52 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:01:52 | WARNING  | Footer not found 👀
+2025-06-22 20:01:52 | INFO     | Chunk saved – total words: 4811
+2025-06-22 20:01:56 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:01:56 | WARNING  | Footer not found 👀
+2025-06-22 20:01:56 | INFO     | Chunk saved – total words: 4998
+2025-06-22 20:01:57 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:01:57 | WARNING  | Footer not found 👀
+2025-06-22 20:01:57 | INFO     | Chunk saved – total words: 5000
+2025-06-22 20:11:54 | INFO     | Starting writer-bot ⚙️
+2025-06-22 20:12:25 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:12:25 | WARNING  | Footer not found 👀
+2025-06-22 20:12:25 | INFO     | Chunk saved – total words: 1228
+2025-06-22 20:12:52 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:12:52 | WARNING  | Footer not found 👀
+2025-06-22 20:12:52 | INFO     | Chunk saved – total words: 2470
+2025-06-22 20:13:19 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:13:19 | WARNING  | Footer not found 👀
+2025-06-22 20:13:19 | INFO     | Chunk saved – total words: 3699
+2025-06-22 20:13:40 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:13:40 | WARNING  | Footer not found 👀
+2025-06-22 20:13:40 | INFO     | Chunk saved – total words: 4898
+2025-06-22 20:13:42 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:13:42 | WARNING  | Footer not found 👀
+2025-06-22 20:13:43 | INFO     | Chunk saved – total words: 4998
+2025-06-22 20:13:43 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:13:43 | WARNING  | Footer not found 👀
+2025-06-22 20:13:43 | INFO     | Chunk saved – total words: 4999
+2025-06-22 20:13:44 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:13:44 | WARNING  | Footer not found 👀
+2025-06-22 20:13:44 | INFO     | Chunk saved – total words: 5000
+2025-06-22 20:38:57 | INFO     | Starting writer-bot ⚙️
+2025-06-22 20:39:19 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:39:19 | WARNING  | Footer not found 👀
+2025-06-22 20:39:19 | INFO     | Chunk saved – total words: 1223
+2025-06-22 20:39:37 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:39:37 | WARNING  | Footer not found 👀
+2025-06-22 20:39:37 | INFO     | Chunk saved – total words: 2456
+2025-06-22 20:39:56 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:39:56 | WARNING  | Footer not found 👀
+2025-06-22 20:39:56 | INFO     | Chunk saved – total words: 3681
+2025-06-22 20:40:15 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:40:15 | WARNING  | Footer not found 👀
+2025-06-22 20:40:15 | INFO     | Chunk saved – total words: 4926
+2025-06-22 20:40:16 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 20:40:16 | WARNING  | Footer not found 👀
+2025-06-22 20:40:16 | INFO     | Chunk saved – total words: 5003
+2025-06-22 21:16:12 | INFO     | Starting writer-bot ⚙️
+2025-06-22 21:18:01 | INFO     | Starting writer-bot ⚙️
+2025-06-22 21:23:54 | INFO     | Starting writer-bot ⚙️
+2025-06-22 21:24:20 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 21:24:20 | WARNING  | Footer not found 👀
+2025-06-22 21:43:11 | INFO     | Starting writer-bot 
+2025-06-22 21:43:29 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 21:43:29 | WARNING  | Footer not found 👀
+2025-06-22 21:43:29 | INFO     | Chunk saved – total words: 1282
+2025-06-22 21:43:48 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 21:43:48 | WARNING  | Footer not found 👀
+2025-06-22 21:43:48 | INFO     | Chunk saved – total words: 2505
+2025-06-22 21:44:08 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 21:44:08 | WARNING  | Footer not found 👀
+2025-06-22 21:44:08 | INFO     | Chunk saved – total words: 3710
+2025-06-22 21:44:29 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 21:44:29 | WARNING  | Footer not found 👀
+2025-06-22 21:44:29 | INFO     | Chunk saved – total words: 4934
+2025-06-22 21:44:31 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 21:44:31 | WARNING  | Footer not found 👀
+2025-06-22 21:44:31 | INFO     | Chunk saved – total words: 4998
+2025-06-22 21:44:32 | INFO     | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-22 21:44:32 | WARNING  | Footer not found 👀
+2025-06-22 21:44:32 | INFO     | Chunk saved – total words: 5000

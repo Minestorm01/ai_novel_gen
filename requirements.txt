@@ -1,0 +1,8 @@
+openai>=1.14.0
+python-dotenv>=1.0
+pyyaml>=6.0
+rich>=13.0
+typer[all]>=0.12
+tenacity>=8.2
+beautifulsoup4>=4.12
+markdown>=3.5

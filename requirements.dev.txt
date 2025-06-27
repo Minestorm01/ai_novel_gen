@@ -1,6 +1,2 @@
--r requirements.txt
-ruff
-mypy
-pytest
-coverage
-build
+black
+isort

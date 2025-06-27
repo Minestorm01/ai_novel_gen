@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "One-Click Book Generator API is live"}
+    return {"message": "Backend API running"}

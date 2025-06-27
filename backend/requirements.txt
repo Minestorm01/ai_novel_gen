@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+python-docx
+pymupdf
+pandas
+python-multipart

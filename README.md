@@ -1,3 +1,3 @@
 # One-Click Book Generator
 
-This project generates a book using GPT-4o, chapter by chapter.
+This is the combined frontend/backend project to generate full books using GPT-4o.

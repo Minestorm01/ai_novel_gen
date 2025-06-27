@@ -1,0 +1,10 @@
+{
+  "name": "one-click-book-dev",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently \"npm --prefix frontend run dev\" \"uvicorn backend/app/main:app --reload\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
